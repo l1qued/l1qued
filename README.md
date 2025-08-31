@@ -1,9 +1,14 @@
 ### Hi there 👋, i am lik
 
-## my contacts 💬
+## My contacts 💬
 - Discord l1queds
 - Parallel l1queds
 - Telegram @l1queds
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/l1qued/github-readme-activity-graph)
+
+
+
 <!--
 **l1qued/l1qued** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
