@@ -1,5 +1,9 @@
-## Hi there 👋
+### Hi there 👋, i am lik
 
+## my contacts 💬
+- Discord l1queds
+- Parallel l1queds
+- Telegram @l1queds
 <!--
 **l1qued/l1qued** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
