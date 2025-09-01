@@ -1,11 +1,10 @@
 <div id="header" align="center">
   <h1>Hi there 👋, i am lik</h1>
 </div>
-<h3> My contacts 💬 </h3>
-- Discord l1queds
-- Parallel l1queds
-- Telegram @l1queds
-
+<h2> My contacts 💬 </h2>
+<h3> Telegram: @l1queds </h3>
+<h3> Discord: l1queds </h3>
+</n>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=l1qued&theme=nord_dark) 
 <!--
 **l1qued/l1qued** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
