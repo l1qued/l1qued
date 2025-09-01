@@ -1,5 +1,6 @@
-### Hi there 👋, i am lik
-
+<div id="header" align="center">
+  <h1>Hi there 👋, i am lik</h1>
+</div>
 ## My contacts 💬
 - Discord l1queds
 - Parallel l1queds
