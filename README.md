@@ -6,7 +6,7 @@
 - Parallel l1queds
 - Telegram @l1queds
 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=l1qued&theme=nord_dark) 
 <!--
 **l1qued/l1qued** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
