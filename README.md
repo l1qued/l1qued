@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1>Hi there 👋, i am lik</h1>
 </div>
-## My contacts 💬
+<h3> My contacts 💬 </h3>
 - Discord l1queds
 - Parallel l1queds
 - Telegram @l1queds
