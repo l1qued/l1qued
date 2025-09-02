@@ -2,8 +2,13 @@
   <h1>Hi there 👋, i am lik</h1>
 </div>
 <h2> My contacts 💬 </h2>
-<h3> Telegram: @l1queds </h3>
-<h3> Discord: l1queds </h3>
+<ol>
+  <li> Telegram: @l1queds </li>
+  <li> Parallel: l1queds </li>
+  <li> Discord: l1qeuds </li>
+</ol>
+
+<br> 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=l1qued&theme=nord_dark) 
 <!--
