@@ -12,9 +12,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=l1qued&theme=nord_dark) 
 <!--
-**l1qued/l1qued** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
